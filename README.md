@@ -9,3 +9,8 @@ All projects created in Snack are publicly available, so you can easily share th
 If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
 
 Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+<<<<<<< HEAD
+=======
+
+![image](https://github.com/Cristian-sanchez14/FocusTimeApp/assets/108629827/9ec48477-8159-4ed6-bb2d-33fd890f0ed4)
+>>>>>>> 7605ec578bc065318a3f721ee48a58762a312a78
