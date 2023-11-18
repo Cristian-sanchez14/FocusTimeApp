@@ -10,4 +10,4 @@ If you're having problems, you can tweet to us [@expo](https://twitter.com/expo)
 
 Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
 
-exp://exp.host/@starkiller14/focustime+KKFuUovi2E
+![image](https://github.com/Cristian-sanchez14/FocusTimeApp/assets/108629827/9ec48477-8159-4ed6-bb2d-33fd890f0ed4)
